@@ -1,3 +1,8 @@
+## HW11; Score: 16/20
+
+Anna and Josh, you are making up quick progress on the work that you need to. I think you have a good plan going forward and that the progress you've made on writing your code is admirable givent hat you changed your topic so late. Investgating the inverse piexo-electric effect is a great idea and I can see that the code appears to be set up to start modeling it. I haven't installed the hoomd package just yet, so I'll trust what you've done. I will install it later this week and try to play with your code a bit. Great work so far.
+
+
 ## HW10; Score: 16/20
 
 Anna and Josh, I'm glad to see that you found something you are more interested in. I think you are going to really think about what the model describes because while you have discussed the specific variables in it, you haven't really explained the model itself in detail. Also, I'm curious what you will model with the computer in this case as well. What do you plan to explore in this model? I'm glad to see that you are sharing the work equally and that you have a good collaboration going.
